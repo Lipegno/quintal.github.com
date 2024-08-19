@@ -1,0 +1,109 @@
+Propostas de Licenciatura
+    Ano letivo 20/21:
+        1.	Módulo de gestão de comunicação com periféricos 
+        2.	Comparison of different methods of interaction with in-vehicle infotainment system
+        3.	Desenvolvimento de um Conector com a Connect Bridge
+        4.	Implementação de método computacional para resolução de problemas físicos
+        5.	Frontend para toolkit de machine-learning para monitorização remota de solos
+        6.	Visualização de consumos de eletricidade em cozinhas industriais
+        7.	Empirical exploration of performance metrics for power and energy estimation using NILM
+    Ano letivo 21/22:
+        8.	Plataforma “Biblioteca de eBooks – Leitura Inclusiva”
+        9.	Migração de Plataformas Oracle Middleware para Kubernetes
+        10.	Development of a platform to analyze and provide real-time risk data during extreme weather events
+        11.	CI CD em Java
+        12.	Sistema de recomendação de eventos para o cliente final
+    Ano letivo 22/23:
+        13.	Evolução no controlo Automático de chamadas telefónicas - Asterisk REST Interface (ARI) .
+        14.	Plataforma de Gestão de Recursos Humanos e de Projetos.
+        15.	Desenvolvimento do standard Lane Change Test na  plataforma Unity.
+        16.	Frontend para simulador de comunidades de energia.
+        17.	Desenvolvimento de aplicações Web onde o objetivo consiste na implementação de novas funcionalidades para uma aplicação de suporte das soluções da Asseco PST.
+    Ano letivo 23/24:
+        18.	Task Generator 2.0: leveraging personalized paper and pencil cognitive training to a tablet approach.
+        19.	Plugin para QGIS.
+        20.	Wayfinder AR.
+        21.	Google Wallet Card.
+        22.	Deteção de sinais de trânsito com um headset de VR
+Propostas de Mestrado
+    Ano letivo 20/21:
+        1.	Apresentação e análise do ecossistema para desenvolvimento mobile em multiplataforma.
+        2.	Development and analysis of an open-source platform to simulate electric vehicle charging needs.
+        3.	Development of a platform to analyze and provide real-time risk data during extreme weather events.
+        4.	Interação com sistema de infotainment de um veículo, implementação e avaliação de gestos e técnicas hápticas.
+    Ano letivo 21/22:
+        5.	Interaction with ECUs with the aim of making driving safer and more efficient.
+        6.	Modelação e Implementação da infraestrutura de backend para uma aplicação de venda de Certificados Digitais.
+        7.	Modelação e Implementação de uma aplicação de venda de Certificados Digitais.
+        8.	Desenvolvimento de aplicação móvel para o SESARAM, E.P.E.
+        9.	Aplicação Móvel CS Marítimo.
+        10.	A web-based dashboard for data visualization of a serious gaming system.
+        11.	Comparison of different methods of interaction with in-vehicle infotainment system.
+        12.	Rebuilding Driver Situation Awareness through the use of Augmented Reality.
+        13.	Exploring the potential of machine-learning and earth observations data for climate change mitigation.
+        14.	Exploring the potential of social agents and distributed ledger technologies for load balancing in community energy systems.
+    Ano letivo 22/23:
+        15.	Comparing selection mechanisms for techniques in head-mounted displays.
+        16.	Task Generator 2.0: leveraging personalized paper and pencil cognitive training to a tablet approach.
+    Ano letivo 23/24:
+        17.	Hydra - GUI para Ferramenta de Geração de Código.
+        18.	Paltaforma Eletrónica dos Combustíveis.
+        19.	Menu guru.
+        20.	Desenvolvimento do Teste LCT em Unity utilizando realidade Virtual.
+Propostas de Doutoramento 
+    Ano Letivo de 2023/2024:
+    1.	Evaluation Tool to Assess the Impact of Artificial Intelligence in Education
+Orientações de Licenciatura
+    Ano letivo 20/21:
+        1.	Título: Módulo de gestão de comunicação com periféricos. Orientando: Ricardo Palmeira.
+        2.	Título: NudgeWeb. Orientando: José Gouveia.
+        3.	Título: Extensão de um simulador de carregamento de veículos elétricos, através da adição de um modelo Tensor Flow. Orientando: Rúben Rodrigues.
+        4.	Título: API Face, Conector e Aplicação. Orientando: Jénifer Constatino. 
+        5.	Título: Implementação de método computacional para resolução de problemas físicos Orientando: Luís Sousa.
+    Ano letivo 21/22:
+        6.	Título: Sistema De Recomendação De Eventos Para O Cliente Final. Orientando: Luís Gouveia.
+        7.	Título: CI/CD em Java. Orientando: Alexandre Torra.
+        8.	Título: Biblioteca de eBooks – Leitura Inclusiva. Orientando:Filipa Sousa.
+        9.	Título: Apresentação e Análise da Implementação de Infraestruturas. Orientando: Mariana Spínola.
+        10.	Título: Implementação de soluções para as funcionalidades de Text-to-Speech (TTS) e Automatic Speech Recognition (ASR). Orientando: Sara Teixeira.
+        11.	Título: Development of a platform to analyze and provide real-time risk data during extreme weather events. Orientando: Sérgio Oliveira.
+    Ano letivo 22/23:
+        12.	Título: Visualização de consumos de eletricidade em cozinhas industriais. Orientando: Toni Garcês.
+        13.	Título: Desenvolvimento do Lane Change Test em Unity. Orientando: Tiago Noite.
+        14.	Título: Plataforma de Recursos Humanos e de Projetos. Orientando: Hélvio Nóbrega.
+        15.	Título: Desenvolvimento de aplicações Web onde o objetivo consiste na implementação de novas funcionalidades para uma aplicação de suporte das soluções da Asseco PST. Orientando: João Araújo.
+    Ano letivo 23/24
+        16.	Título: Modificação do Sistema NeuroRehabLab Task Generator 2.0 Orientando: José Pita.
+        17.	Título: Deteção de sinais de trânsito em estradas da Região Autónoma da Madeira  Orientando: João Castro.
+        18.	Título: Uso de Software de Sistemas de Informação Geográfica Open-Source em Organismos Públicos Caso Direção Regional do Ordenamento do Território. Orientando: António Chaves.
+        19.	Título: GoogleWallet Card. Orientando: Inês Jardim.
+        20.	Título: Wayfinder AR. Orientando: Diogo Bento.
+Júris de Mestrado
+    Arguente
+        Aluno: Leonel Duarte Camacho Freitas, Título: Low Cost loT Monitoring Solution for Increased Student Awareness on Campus, Data: 18/02/2021
+        Aluno: Filipe Alexandre Nóbrega Moura, Título: Desenvolvimento de um Sistema loT com Diferentes Formas de Interação, Data: 09/04/2021
+        Aluno: Fábio Mateus Rodrigues Abreu, Título: Real-Time Application Programming Interfaces for Depicting Aquatic Internet of Things, Data: 21/04/2021
+        Aluno: Bruno Miguel Pereira da Silva, Título: A Computational Software Tool for Satellite Laser Altimetry Data Processing. Analysis and Visualisation, Data: 02/06/2021
+        Aluno: Francisco João Mendonça Teixeira, Título: Interações gestuais para plataformas Streaming de vídeo, Data: 27/07/2021
+        Aluno: José Ricardo de Abreu Carvalho, Título: Pesquisa Multimodal de Imagens em Dispositivos Móveis, Data: 03/12/2021
+        Aluno: Cristiano Silva França, Título: Virtual Reality Environments as a therapeutic Technique in Reabilitation of physical and cognitive training in soccer players, Data: 20/01/2022
+        Aluno: João Leandro Gouveia Mende, Título: Desenvolvimento de um Sistema de Gestão de Funcionalidades de Business Intelligence em Plataforma de low-code, Data: 19/06/2022
+        Aluno: Pedro Alexandre Gomes Rodrigues, Título: A Framework for Al Driven Neurorehabilitation Training: The Profiling Challenge, Data: 18/11/2022
+        Aluno: João Baptista Coelho Freitas, Título: Aumentando a Usabilidade dos Sistemas Gestores  de Exposições Interativas para Curadores de Museus, Data: 24/11/2022
+        Aluno: Ricardo Jorge Pedras Martins, Título: Data-Driven Modeling Of Energy Consumption In Industrial Kitchens - Detection Of Activations And Unsupervised Classification, Data: 30/11/2022
+        Aluno: Eduardo Alexandre Romão Coelho , Título: Psyment: security design and implementation of a psychological assessment supportive web platform , Data: 16/02/2023
+        Aluno: Vítor Hugo Silva Freitas , Título: Extension of action rule grammar and implemention of processing engine of a DEMO based low-code platform , Data: 05/07/2023
+        Aluno: José Gabriel dos Santos Gomes Agrela , Título: Customizing Experiences for Mobile virtual Reality , Data: 27/10/2023
+        Aluno: Diego Andrés da Silva Briceno , Título: AQUA: Explorando a Gamificação e ciência cidadã na Monitoruação da Biodiversidade de cetáceos , Data: 02/11/2023
+        Aluno: Paulo Tomás Caires Teles , Título: Interconnection of BIM and VR/AR technologies: Possibilities and challenges , Data: 26/01/2024
+        Aluno: Rafael António Fernandes e Costa Marques Candeias , Título: Contributions for Soil Nutrient Estimation Using Earth Observation Data: Datasets, Toolkits and Semi-Supervised Learning , Data: 17/05/2024
+    Presidente
+        Aluno: Sérgio Gonçalves Sumares Betencourt Ribeiro, Título: Swarm Intelligence and Metaphorless Algorithms for solving Nonlinear Equation systems , Data: 13/10/2023
+        Aluno: Ricardo Daniel Pinheiro, Título: Data Analysis of Trail Running: Runner passage Prediction, Data: 02/02/2024
+
+Propostas de Projetos Ciêntificos
+    1.	Consumer mobIlizatioN for Energy Services that Increase System flexibility (HORIZON-CL5-2021-D3-02, proposta 101075687) 
+    2.	EyeMax- Solução Revolucionária Online para Simular Cirurgia Ocular (PROciência 2020 – Copromoção, proposta M1420-47-2020-21)
+    3.	Micro and Small Scale Hydropower for clean sustained energy in Atlantic islands/isolated areas (InterReg Atlantic Area, proposta EAPA_0060/2022)
+    4.	Smart Islands Hub (DIGITAL-2021-EDIH-INITIAL-01 — Initial Network of European Digital Innovation Hubs 101083477 — SIH)
+    5.	Cooperación e investigación para la mejora de la producción, comercialización y seguridad alimentaria de los productos de la pesca y la acuicultura en la región Macaronésica y los Terceros países. (SANFISH, MAC 2021-2027 Coperación Territorial, proposta 1/MAC/1/1.1/0087) 
